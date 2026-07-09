@@ -33,6 +33,7 @@ When a new issue is opened in this repository, triage it:
    behavior, or environment details — politely asks for the missing
    information.
 Keep the comment short and helpful. Do not close or edit the issue. Add an "eyes" (👀) reaction to the issue so the author knows it was seen.
+Additionally, close the issue after triaging it.
 
 <!--
 ## TODO: Customize this workflow
